@@ -7,7 +7,7 @@ I believe in writing clean, maintainable code and constantly learning new techno
 # 💫 About Me:
 
 🌍 I'm based in India<br>
-✉️ You can contact me at me@sampath.me<br>
+✉️ You can contact me at gujrathaisampath@gmail.com<br>
 🚀 I'm currently building Aspire Dev<br>
 🧠 I'm always learning and exploring new technologies<br>
 🤝 I'm open to collaborating on interesting projects

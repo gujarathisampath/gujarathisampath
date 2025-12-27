@@ -50,7 +50,7 @@ I believe in writing clean, maintainable code and constantly learning new techno
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=gujarathisampath&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=gujarathisampath&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gujarathisampath&theme=dark&hide_border=false)
 
 ## 🌐 Connect With Me

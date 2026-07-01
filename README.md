@@ -5,7 +5,6 @@ I'm a Computer Science student who enjoys building full-stack applications, back
 I enjoy turning ideas into real products from designing APIs and databases to deploying production ready applications with Docker and Linux.
 
 
----
 
 ## 🚀 What I'm Working On
 
@@ -20,7 +19,6 @@ Lately I've been exploring:
 * ⚡ Performance optimization and automation
 * 🐧 Linux server administration
 
----
 
 ## 🛠 Tech Stack
 
@@ -63,7 +61,6 @@ Lately I've been exploring:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42"/>
 </p>
 
----
 
 ## 📈 GitHub Activity
 
@@ -75,7 +72,6 @@ Lately I've been exploring:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gujarathisampath&theme=high-contrast&hide_border=true"/>
 </p>
 
----
 
 ## 🤝 Let's Connect
 
@@ -93,7 +89,5 @@ I'm also open to internships, freelance opportunities, and collaborating on inte
 
 🌐 **Portfolio:** https://sampath.me
 📧 **Email:** [hello@sampath.me](mailto:hello@sampath.me)
-
----
 
 Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to build something together.

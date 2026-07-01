@@ -1,47 +1,61 @@
 # Hey, I'm Sampath 👋
 
-I'm a CS student who spends most of his free time building things — web apps, backend systems, and my own self-hosted server setup. I like understanding how stuff works under the hood, so I usually end up hosting it myself instead of relying on someone else's platform.
+I'm a Computer Science student who enjoys building full-stack applications, backend systems, and self-hosted infrastructure. I like understanding how software works beneath the surface, so you'll usually find me deploying services on my own servers, experimenting with new technologies, or improving my development workflow.
 
-<img src="https://komarev.com/ghpvc/?username=gujarathisampath&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+I enjoy turning ideas into real products from designing APIs and databases to deploying production ready applications with Docker and Linux.
 
----
-
-## What I'm up to
-
-Right now I'm building **AspireFit**, a fitness platform with a CRM and an AI training coach baked in. Alongside that I'm messing around with my own server infra — custom Nginx Proxy Manager pages, Docker deployments, that kind of thing.
-
-Always down to talk full-stack dev, APIs, Docker, Linux, or backend architecture. Also open to internships, freelance work, or just collaborating on something interesting.
 
 ---
 
-## Tools I reach for
+## 🚀 What I'm Working On
 
-**Languages**
+I'm always building and experimenting with new ideas across web development, backend engineering, AI, and self-hosting.
+
+Lately I've been exploring:
+
+* 🐳 Docker & containerized deployments
+* 🖥️ Self-hosted services and homelab infrastructure
+* 🌐 REST APIs & backend architecture
+* 🤖 AI integrations and local LLMs
+* ⚡ Performance optimization and automation
+* 🐧 Linux server administration
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=py,go,java,js,ts,html,css" />
 </p>
 
-**Frontend**
+### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,framer" />
 </p>
 
-**Backend**
+### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 </p>
 
-**Databases**
+### Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" />
 </p>
 
-**DevOps & Cloud**
+### DevOps & Infrastructure
+
 <p>
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,postman,figma" />
 </p>
 
-**AI & Data**
+### AI & Data
+
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
 <img src="https://cdn.simpleicons.org/huggingface" height="42"/>
@@ -51,7 +65,7 @@ Always down to talk full-stack dev, APIs, Docker, Linux, or backend architecture
 
 ---
 
-## GitHub stuff
+## 📈 GitHub Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=gujarathisampath&theme=javascript-dark&hide_border=true&short_numbers=true"/>
@@ -63,7 +77,11 @@ Always down to talk full-stack dev, APIs, Docker, Linux, or backend architecture
 
 ---
 
-## Find me elsewhere
+## 🤝 Let's Connect
+
+I'm always happy to chat about full-stack development, backend engineering, Linux, Docker, self-hosting, DevOps, AI, or open source.
+
+I'm also open to internships, freelance opportunities, and collaborating on interesting projects.
 
 <p>
 <a href="https://github.com/gujarathisampath"><img src="https://skillicons.dev/icons?i=github" width="42"/></a>
@@ -73,8 +91,9 @@ Always down to talk full-stack dev, APIs, Docker, Linux, or backend architecture
 <a href="https://discord.gg/m9Jd4fGm"><img src="https://skillicons.dev/icons?i=discord" width="42"/></a>
 </p>
 
-Portfolio: https://sampath.me · Email: hello@sampath.me
+🌐 **Portfolio:** https://sampath.me
+📧 **Email:** [hello@sampath.me](mailto:hello@sampath.me)
 
 ---
 
-Thanks for stopping by — feel free to poke around my repos.
+Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to build something together.
